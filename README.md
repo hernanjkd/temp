@@ -10,10 +10,4 @@
 - Use of `.env` file.
 - SQLAlchemy integration for database abstraction.
 
-## How to Start the Project?
 
-There is an example API working with an example database. All your application code should be written inside the `./src/` folder.
-
-- src/main.py (it's where your endpoints should be coded)
-- src/models.py (your database tables and serialization logic)
-- src/utils.py (some reusable classes and functions)
