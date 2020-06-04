@@ -29,13 +29,4 @@ $ pipenv run upgrade  (to update your databse with the migrations)
 ```
 
 
-# Manual Installation for Ubuntu & Mac
-
-⚠️ Make sure you have `python 3.6+` and `MySQL` installed on your computer and MySQL is running, then run the following commands:
-```sh
-$ pipenv install (to install pip packages)
-$ pipenv run migrate (to create the database)
-$ pipenv run start (to start the flask webserver)
-```
-
 
